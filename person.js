@@ -1,6 +1,6 @@
-let myName = 'Catherine';
+let myName = "Catherine";
 let myHeight = 173;
-let myCountry = 'Kenya';
+let myCountry = "Kenya";
 
 alert(`My name is ${myName}.`);
 alert(`I am ${myHeight} cm.`);
