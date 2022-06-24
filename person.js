@@ -2,6 +2,6 @@ let myName = "Catherine";
 let myHeight = 173;
 let myCountry = "Kenya";
 
-alert(`My name is ${myName}.`);
-alert(`I am ${myHeight} cm.`);
-alert(`I am from ${myCountry}.`);
+window.alert(`My name is ${myName}.`);
+window.alert(`I am ${myHeight} cm.`);
+window.alert(`I am from ${myCountry}.`);
