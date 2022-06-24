@@ -1,4 +1,4 @@
-let response = prompt("Should I tell you about myself? (respond with 'y' or 'n').");
+let answer = prompt("Should I tell you about myself? (respond with 'y' or 'n').")
 
 let myName = 'Catherine';
 let myHeight = 173;
@@ -11,4 +11,8 @@ if (response == 'y') {
 } else if (response == 'n') {
     
 }
+
+
+
+
 
